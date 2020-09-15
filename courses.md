@@ -14,7 +14,7 @@ These are relevant courses I have taken at the University of Waterloo.
 
 ## 2A
 
-* [ECE 250 Data Structures and Algorithms](https://ugradcalendar.uwaterloo.ca/courses/ECE/250)
+* [ECE 250 Data Structures and Algorithms (C++)](https://ugradcalendar.uwaterloo.ca/courses/ECE/250)
 * [ECE 222 Digital Computers (RISC-V)](https://ugradcalendar.uwaterloo.ca/courses/ECE/222)
 
 ## 1st year
