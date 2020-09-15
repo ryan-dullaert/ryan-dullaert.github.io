@@ -19,4 +19,5 @@ Ryan Dullaert
 
 * [R&Eacute;SUM&Eacute;]({{ site.url }}/resume) - A link to a copy of my r&eacute;sum&eacute;.
 * [PROJECTS]({{ site.url }}/projects) - Links and descriptions of my various projects.
+* [COURSES]({{ site.url }}/courses) - My relevant courses at the University of Waterloo.
 * [ABOUT]({{ site.url }}/about) - Some information about myself and this website.
