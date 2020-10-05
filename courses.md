@@ -9,13 +9,13 @@ These are relevant courses I have taken at the University of Waterloo.
 
 ## 2B (current)
 
-* [ECE 252 Systems Programming and Concurrency](https://ugradcalendar.uwaterloo.ca/courses/ECE/252)
-* [ECE 224 Embedded Microprocessor Systems](https://ugradcalendar.uwaterloo.ca/courses/ECE/224)
+* [ECE 252 Systems Programming and Concurrency (C)](https://ugradcalendar.uwaterloo.ca/courses/ECE/252)
+* [ECE 224 Embedded Microprocessor Systems (C)](https://ugradcalendar.uwaterloo.ca/courses/ECE/224)
 
 ## 2A
 
 * [ECE 250 Data Structures and Algorithms (C++)](https://ugradcalendar.uwaterloo.ca/courses/ECE/250)
-* [ECE 222 Digital Computers (RISC-V)](https://ugradcalendar.uwaterloo.ca/courses/ECE/222)
+* [ECE 222 Digital Computers (RISC-V assembly)](https://ugradcalendar.uwaterloo.ca/courses/ECE/222)
 
 ## 1st year
 
