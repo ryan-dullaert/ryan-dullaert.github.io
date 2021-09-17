@@ -9,12 +9,13 @@ permalink: /about
 
 Ryan enjoys butter tarts, explosions, and SPAAACE. Contrary to popular belief, I can't think in 7 dimensions.
 
-Contact information:
+### Contact Information
 
 * Email: ryan [dot] dullaert [@] uwaterloo [dot] ca
 * Phone: ( 343 ) Eight-eight-three - 0503
-* LinkedIn: [Ryan Dullaert](https://www.linkedin.com/in/ryan-dullaert/)
+* LinkedIn: [Ryan Dullaert](https://www.linkedin.com/in/ryan-dullaert)
 * GitHub: [Xierumeng](https://github.com/Xierumeng)
+* Other Website (blog, comics, etc.): [https://xierumeng.github.io](https://xierumeng.github.io)
 
 # Copyright
 

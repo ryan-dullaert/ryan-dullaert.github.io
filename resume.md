@@ -5,6 +5,6 @@ permalink: /resume
 ---
 # R&eacute;sum&eacute;
 
-Link to my r&eacute;sum&eacute;: [PDF file]({{ site.url }}/files/ryan-dullaert-resume-2020-09-14-192200.pdf).
+Link to my r&eacute;sum&eacute;: [PDF file]({{ site.url }}/files/ryan-dullaert-resume-2021-09-16.pdf).
 
-Last updated: 2020-09-14.
+Last updated: 2021-09-16.
