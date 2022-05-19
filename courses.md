@@ -7,15 +7,31 @@ permalink: /courses
 
 These are relevant courses I have taken at the University of Waterloo.
 
-## 3B (current)
+## 4A (current)
+
+* [ECE 498A Engineering Design Project](https://ugradcalendar.uwaterloo.ca/courses/ECE/498A)
+    * Group itinerary and member tracking app.
+* [CS 480 Introduction to Machine Learning](https://ugradcalendar.uwaterloo.ca/courses/CS/480)
+    * Example labs: Ongoing.
+* [ECE 458 Computer Security](https://ugradcalendar.uwaterloo.ca/courses/ECE/458)
+    * Example labs: Ongoing.
+* [ECE 457C Reinforcement Learning](https://ugradcalendar.uwaterloo.ca/courses/ECE/457C)
+    * Example labs: Ongoing.
+* [ECE 455 Embedded Systems (C)](https://ugradcalendar.uwaterloo.ca/courses/ECE/455)
+    * Example labs: Ongoing.
+* [ECE 454 Distributed Systems (Java)](https://ugradcalendar.uwaterloo.ca/courses/ECE/454)
+    * Example labs: Ongoing.
+
+## 3B
 
 * [CS 486 Introduction to Artificial Intelligence](https://ugradcalendar.uwaterloo.ca/courses/CS/486)
+    * Example labs: A* search, decision trees, variable elimination inference, Q-learning and SARSA.
 * [ECE 358 Computer Networks (Python)](https://ugradcalendar.uwaterloo.ca/courses/ECE/358)
-    * Example labs: Ongoing.
+    * Example labs: Event-based network simulator.
 * [ECE 351 Compilers (Java)](https://ugradcalendar.uwaterloo.ca/courses/ECE/351)
-    * Example labs: Ongoing.
+    * Example labs: Parsing, abstract syntax tree, waveform evaluation of VHDL subset.
 * [ECE 320 Computer Architecture (Verilog)](https://ugradcalendar.uwaterloo.ca/courses/ECE/320)
-    * Example labs: Ongoing. Cycle-accurate RISC-V processor implementation.
+    * Example labs: Cycle-accurate pipelined RISC-V processor implementation.
 
 ## 3A
 
